@@ -15,9 +15,6 @@
 /log/*.log
 /tmp
 
-# Ignore the gem cache.
-/vendor/cache
-
 # Ignore other unneeded files.
 doc/
 *.swp
